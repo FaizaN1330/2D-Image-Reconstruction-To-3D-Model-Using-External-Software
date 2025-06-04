@@ -87,6 +87,6 @@ python stereo.py ( Before Running Download Cloud Comapare Software which is Free
 
 
 Please Support and Like :)
-Thak You.
+Thank You.
 
   
